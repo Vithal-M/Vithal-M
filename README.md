@@ -8,13 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/vithal mhetre" target="blank"><img src="https://img.shields.io/twitter/follow/vithal mhetre?logo=twitter&style=for-the-badge" alt="vithal mhetre" /></a> </p>
 
-#- 🔭 I’m currently working on **Ivy**
 
 - 🌱 I’m currently learning **JAVA FULLSTACK ,DSA**
 
 - 👯 I’m looking to collaborate on **Innovative Projects**
-
-#- 🤝 I’m looking for help with **Finding Jobs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vithal-M](https://github.com/Vithal-M)
 
